@@ -12,8 +12,8 @@ Frontend used car sales management system with an admin database connection thro
 
 ## Programming Language and Backend
 
-Programming Language: The Car Sales Management System is developed primarily using [insert programming language, e.g., Python].
-Backend Framework: The backend of the system is built using [insert backend framework, e.g., Django], providing a robust and scalable architecture to handle the demands of car sales management.
+Programming Language: The Car Sales Management System is developed primarily using Javascript.
+Backend Framework: The backend of the system is built using phpsql, providing a robust and scalable architecture to handle the demands of car sales management.
 
 ## Coming soon...
 
